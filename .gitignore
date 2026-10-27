@@ -1,0 +1,12 @@
+# Папки проектов — каждая свой репозиторий
+Admin_PC/
+Admin_moi_class/
+baza_znanii/
+my_Soft_engineer_skill/
+
+# Мусор/временное
+_audio_probe.py
+_clipboard_screenshot.png
+
+# Служебное Kimi Code
+.kimi-code/
